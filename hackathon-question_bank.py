@@ -3,7 +3,7 @@ import pandas as pd
 import csv
 import random
 
-df=pd.read_csv("G:\\phytho\\uma mam\currency.csv")
+df=pd.read_csv("G:\\phytho\\uma mam\currency.csv")#PLEASE CHANGE PATH FILE ACCORDING TO YOU AND MAKE SURE THAT U HAVE DOWNLOADED currency.csv WHICH IS BEEN UPLOADED IN THE SAME REPOSITORY
 
 df.head()
 
